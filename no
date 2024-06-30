@@ -1,0 +1,11 @@
+[33mcommit 4a45f1d4c731fe59be928e502d1339fe02d4d824[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Arkevan <subject148994@gmail.com>
+Date:   Sun Jun 30 06:13:41 2024 +0500
+
+    Added Hello World
+
+[33mcommit b36bd9d7b5312361fe2d2a9e0849a3aca9ae17eb[m
+Author: Arkevan <subject148994@gmail.com>
+Date:   Sun Jun 30 06:04:22 2024 +0500
+
+    Add .py file
